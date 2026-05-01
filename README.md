@@ -1,41 +1,39 @@
 # Dusty Chadwick
 
-Founder‑minded engineering leader and Head of AI who treats every project like a mini‑startup. Ship fast, validate early, and double down on what works.
+I bring AI, data, and actionable tool engineering to organizations that need it. I approach every project with a founder's mindset. Ship fast, validate early, double down on what works. Mobile apps, internal tools, LLM workflows. I turn ideas into things teams actually use.
 
-I build data and AI systems that turn ideas into real products, with a focus on mobile apps, internal tools, and LLM‑powered workflows that increase productivity for teams and end users. I am always experimenting with new ideas, learning from what sticks, and shipping the rest.
+I'm high agency, not high certainty. I lead by spotting potential in people and creating conditions for them to shine. Their wins are my wins.
 
 ## What I do
 
-I lead AI and data platform teams but think like a founder. I prioritize impact, ship quickly, and remove friction so teams can focus on what matters.  
-I architect and run scalable data and AI systems, including streaming, vector DBs, embeddings, retrieval‑augmented generation, and LLM orchestration for mobile and web products.  
-I build and harden LLM‑based agents and tools that real people use, with clear logging, evaluation, and guardrails baked into the design.  
-I ship clean, maintainable code using Python, modern infra such as Docker and AWS, and Git‑based workflows, while still keeping speed to market in mind.  
-I design and launch internal tools, mobile apps, and productivity products that help teams work smarter, not harder.
+I lead AI and data platform teams but think like a founder. I prioritize impact over process and remove friction so teams can focus. I don't show up with opinions. I show up with a case.
+
+I architect and run data and AI systems end to end: streaming, vector DBs, embeddings, RAG, and LLM orchestration for mobile and web products. I build agents and tools that real people use, with logging, evaluation, and guardrails baked in from the start.
+
+I write code in Python, run infra on Docker and AWS, and use Git workflows while keeping speed to market in mind. I also design and launch internal tools, mobile apps, and productivity products that help teams work smarter.
 
 ## Technology focus
 
-- Languages: Python, SQL, some Go, and TypeScript  
-- Data & AI: Kafka and streaming, vector DBs, embeddings, retrieval‑augmented generation, LLM tooling and orchestration with OpenAI, Anthropic, Llama, and local models  
-- Infrastructure: AWS, Kubernetes, Docker, Terraform, CI/CD, and observability  
-- Development: Git, GitHub Actions, testing, clean architecture patterns, and documentation  
-- Mobile: React Native, Expo, mobile‑first APIs, and offline‑first patterns for AI‑powered apps
+Languages: Python, SQL, some Go and TypeScript
+Data and AI: Kafka, streaming, vector DBs, embeddings, RAG, LLM tooling and orchestration (OpenAI, Anthropic, Llama, local models)
+Infrastructure: AWS, Kubernetes, Docker, Terraform, CI/CD, observability
+Development: Git, GitHub Actions, testing, clean architecture, documentation
+Mobile: React Native, Expo, mobile APIs, offline support for AI-powered apps
 
 ## Recent projects
 
-Examples of the kinds of things I have been shipping lately:
+I build things constantly. Most don't become businesses, and that's the point. They're R&D. Every project pushes my skills somewhere I haven't been before, which makes me sharper at the day job.
 
-- Productivity tools and mobile apps with a small but focused set of features that use AI to automate repetitive tasks or summarize information.  
-- LLM agents for teams, such as internal tools that help support, ops, or engineering move faster with bot‑assisted workflows.  
-- Data platform slices, minimal but realistic examples of ingestion, transformation, and serving tailored to AI and analytics use cases.  
-- Infrastructure patterns, reusable and opinionated patterns for deploying and managing services on AWS, Docker, and orchestration layers, so I can spin up new experiments quickly.
-
-You can see concrete examples in the pinned repositories on this profile page.
+Productivity tools and mobile apps that use AI to automate repetitive tasks or summarize information.
+LLM agents for internal teams. Support bots, ops helpers, eng accelerators.
+Data platform slices: minimal but realistic examples of ingestion, transformation, and serving for AI and analytics.
+Infrastructure patterns I reuse to spin up new experiments on AWS and Docker quickly.
 
 ## What I care about
 
-I care about shipping quickly but safely. Prototype, learn, and iterate instead of chasing perfection.  
-I care about building things people actually use. Tools and apps that save real time, not just demos.  
-I care about AI that makes sense in context. Models and agents that fit into people’s existing workflows.  
-I care about simple, maintainable architecture. Systems that let me move fast now without paying a huge cost later.
+Shipping quickly but safely. Prototype, learn, iterate. Perfection can wait.
+Building things people actually use. Real time saved, not demos.
+AI that makes sense in context. Models and agents that fit into existing workflows, not bolted on.
+Simple, maintainable architecture. Systems I can move fast with now without paying for it later.
 
-I am always open to discussing new ideas, co‑building tools, or talking through AI‑powered apps and productivity products that solve real problems.
+If you're working on AI-powered apps, internal tools, or productivity products that solve real problems, reach out.
