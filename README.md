@@ -1,39 +1,46 @@
-# Hi, I'm Dusty
+<p align="center">
+  <samp>AI &nbsp;·&nbsp; Data &nbsp;·&nbsp; Engineering</samp>
+</p>
 
-**AI · Data · Engineering**
+---
 
-I lead AI and data-platform teams and build practical tools, from agent workflows and internal applications to desktop utilities. I approach projects with a founder's mindset: ship, learn, and improve.
+I lead AI and data-platform teams and build practical tools that fit how people work. I approach projects with a founder's mindset: ship, validate early, and improve what works.
 
-> I'm high agency, not high certainty. I lead by spotting potential in people and creating conditions for them to shine.
+> I'm high agency, not high certainty. I lead by spotting potential in people and creating conditions for them to shine. Their wins are my wins.
 
-## Selected projects
+---
 
-### [agent-toolkit](https://github.com/ShaggyD/agent-toolkit)
-Reusable skills, CLI tools, MCP servers, browser extensions, and themes for AI agents. I maintain the collection, with credits for adapted work in the repository.
+### What I do
 
-One example: the [Karakeep CLI](https://github.com/ShaggyD/agent-toolkit/tree/master/tools/karakeep) manages bookmarks and syncs them with Obsidian in a single Python file with no external dependencies.
+I work across data platforms, AI workflows, internal tools, and mobile applications. I prioritize impact, remove friction, and help teams turn ideas into things people use.
 
-### [Dot Commander](https://github.com/ShaggyD/dotcom)
-A draggable command dot and radial menu for touch-first Omarchy tablets. It puts window, system, keyboard, and app actions within reach without relying on a physical keyboard.
+I build things constantly. Most don't become businesses, and that's the point: they're R&D. I care about real time saved, AI that fits existing workflows, and simple architecture that teams can maintain.
 
-The live visual editor lets you build your own command wheel. [See screenshots and installation instructions](https://github.com/ShaggyD/dotcom#readme).
+### Public projects
 
-### [Harness Usage](https://github.com/ShaggyD/gnome-gentic)
-A GNOME Shell extension that keeps Codex CLI and OpenCode Go subscription limits visible in the top panel, including remaining quota and reset times.
+A few examples of my ongoing R&D in agent workflows and desktop tools:
 
-A Python collector keeps data gathering separate from the interface, so readings can be checked from a terminal. [See the panel example and setup guide](https://github.com/ShaggyD/gnome-gentic#readme).
+- **[agent-toolkit](https://github.com/ShaggyD/agent-toolkit)** — I maintain a collection of reusable agent skills and tools, including adapted work credited in the repository.
+- **[Dot Commander](https://github.com/ShaggyD/dotcom)** — A draggable command dot and configurable radial menu for touch-first Omarchy tablets.
+- **[Harness Usage](https://github.com/ShaggyD/gnome-gentic)** — A GNOME Shell extension that shows Codex CLI and OpenCode Go subscription quota and reset times in the top panel.
 
-## What I work with
+### Technology focus
 
-- **Data & AI:** Python, SQL, Kafka, streaming, vector databases, RAG, and LLM orchestration.
-- **Infrastructure:** AWS, Docker, Kubernetes, Terraform, CI/CD, and observability.
-- **Applications:** React Native, Expo, mobile APIs, and some TypeScript.
-- **Engineering:** Testing, evaluation, guardrails, and simple, maintainable architecture.
+| Area | Stack |
+|---|---|
+| Data & AI | Python, SQL, Kafka, streaming, vector databases, RAG, LLM orchestration |
+| Infrastructure | AWS, Docker, Kubernetes, Terraform, CI/CD, observability |
+| Applications | React Native, Expo, mobile APIs, some TypeScript |
 
-## How I work
+### What I care about
 
-I build things constantly. Most don't become businesses, and that's the point: they're R&D. I care about tools people actually use, AI that fits existing workflows, and teams that can move quickly without leaving a mess behind.
+| | |
+|---|---|
+| **Shipping quickly but safely.** | Prototype, learn, iterate. Perfection can wait. |
+| **Building things people actually use.** | Real time saved, not demos. |
+| **AI that makes sense in context.** | Models and agents that fit existing workflows. |
+| **Simple, maintainable architecture.** | Systems teams can move quickly with and maintain. |
 
-## Get in touch
+---
 
-Working on AI-powered apps, internal tools, or productivity products? [Book a 15-minute chat](https://cal.com/codegrit.dev/quick-chat) or [see more of my work at CodeGrit](https://codegrit.dev/).
+Working on AI-powered apps, internal tools, or productivity products? [Get in touch through CodeGrit](https://codegrit.dev/) or [book a chat](https://cal.com/codegrit.dev/quick-chat).
