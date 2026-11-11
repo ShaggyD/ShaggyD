@@ -1,51 +1,39 @@
-<p align="center">
-  <samp>AI &nbsp;·&nbsp; Data &nbsp;·&nbsp; Engineering</samp>
-</p>
+# Hi, I'm Dusty
 
----
+**AI · Data · Engineering**
 
-I bring AI, data, and actionable tool engineering to organizations that need it. I approach every project with a founder's mindset. Ship fast, validate early, double down on what works. Mobile apps, internal tools, LLM workflows. I turn ideas into things teams actually use.
+I lead AI and data-platform teams and build practical tools, from agent workflows and internal applications to desktop utilities. I approach projects with a founder's mindset: ship, learn, and improve.
 
-> I'm high agency, not high certainty. I lead by spotting potential in people and creating conditions for them to shine. Their wins are my wins.
+> I'm high agency, not high certainty. I lead by spotting potential in people and creating conditions for them to shine.
 
----
+## Selected projects
 
-### What I do
+### [agent-toolkit](https://github.com/ShaggyD/agent-toolkit)
+Reusable skills, CLI tools, MCP servers, browser extensions, and themes for AI agents. I maintain the collection, with credits for adapted work in the repository.
 
-I lead AI and data platform teams but think like a founder. I prioritize impact over process and remove friction so teams can focus. I don't show up with opinions. I show up with a case.
+One example: the [Karakeep CLI](https://github.com/ShaggyD/agent-toolkit/tree/master/tools/karakeep) manages bookmarks and syncs them with Obsidian in a single Python file with no external dependencies.
 
-I architect and run data and AI systems end to end: streaming, vector DBs, embeddings, RAG, and LLM orchestration for mobile and web products. I build agents and tools that real people use, with logging, evaluation, and guardrails baked in from the start.
+### [Dot Commander](https://github.com/ShaggyD/dotcom)
+A draggable command dot and radial menu for touch-first Omarchy tablets. It puts window, system, keyboard, and app actions within reach without relying on a physical keyboard.
 
-I write code in Python, run infra on Docker and AWS, and use Git workflows while keeping speed to market in mind. I also design and launch internal tools, mobile apps, and productivity products that help teams work smarter.
+The live visual editor lets you build your own command wheel. [See screenshots and installation instructions](https://github.com/ShaggyD/dotcom#readme).
 
-### Technology focus
+### [Harness Usage](https://github.com/ShaggyD/gnome-gentic)
+A GNOME Shell extension that keeps Codex CLI and OpenCode Go subscription limits visible in the top panel, including remaining quota and reset times.
 
-| Area | Stack |
-|---|---|
-| Languages | Python, SQL, some Go and TypeScript |
-| Data & AI | Kafka, streaming, vector DBs, embeddings, RAG, LLM orchestration (OpenAI, Anthropic, Llama, local models) |
-| Infrastructure | AWS, Kubernetes, Docker, Terraform, CI/CD, observability |
-| Development | Git, GitHub Actions, testing, clean architecture, documentation |
-| Mobile | React Native, Expo, mobile APIs, offline support for AI-powered apps |
+A Python collector keeps data gathering separate from the interface, so readings can be checked from a terminal. [See the panel example and setup guide](https://github.com/ShaggyD/gnome-gentic#readme).
 
-### Recent projects
+## What I work with
 
-I build things constantly. Most don't become businesses, and that's the point. They're R&D. Every project pushes my skills somewhere I haven't been before, which makes me sharper at the day job.
+- **Data & AI:** Python, SQL, Kafka, streaming, vector databases, RAG, and LLM orchestration.
+- **Infrastructure:** AWS, Docker, Kubernetes, Terraform, CI/CD, and observability.
+- **Applications:** React Native, Expo, mobile APIs, and some TypeScript.
+- **Engineering:** Testing, evaluation, guardrails, and simple, maintainable architecture.
 
-- Productivity tools and mobile apps that use AI to automate repetitive tasks or summarize information.
-- LLM agents for internal teams. Support bots, ops helpers, eng accelerators.
-- Data platform slices: minimal but realistic examples of ingestion, transformation, and serving for AI and analytics.
-- Infrastructure patterns I reuse to spin up new experiments on AWS and Docker quickly.
+## How I work
 
-### What I care about
+I build things constantly. Most don't become businesses, and that's the point: they're R&D. I care about tools people actually use, AI that fits existing workflows, and teams that can move quickly without leaving a mess behind.
 
-| | |
-|---|---|
-| **Shipping quickly but safely.** | Prototype, learn, iterate. Perfection can wait. |
-| **Building things people actually use.** | Real time saved, not demos. |
-| **AI that makes sense in context.** | Models and agents that fit into existing workflows, not bolted on. |
-| **Simple, maintainable architecture.** | Systems I can move fast with now without paying for it later. |
+## Get in touch
 
----
-
-If you're working on AI-powered apps, internal tools, or productivity products that solve real problems, reach out.
+Working on AI-powered apps, internal tools, or productivity products? [Book a 15-minute chat](https://cal.com/codegrit.dev/quick-chat) or [see more of my work at CodeGrit](https://codegrit.dev/).
